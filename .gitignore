@@ -1,0 +1,16 @@
+/vendor/
+/node_modules/
+/storage/logs/*.log
+/bootstrap/cache/*
+.env
+.env.backup
+.env.production
+!.env.example
+*.sqlite
+*.sqlite3
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.DS_Store
+Thumbs.db
